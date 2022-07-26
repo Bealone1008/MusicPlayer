@@ -140,8 +140,8 @@ New languages, bug fixes and improvements following
 [our contribution guidelines](./CONTRIBUTING.md) are warmly welcomed!
 
 ## 🛫 <a name="supports"></a>Supports
-
-For any kind of help join [our support group](https://t.me/AsmSupport) or raise an [issue](https://github.com/AsmSafone/MusicPlayer/issues).
+-[owner](https://t.me/The_Lazywarriorl) 
+For any kind of help join [our support group](https://t.me/Telugu_Chat_Telugu) or raise an [issue](https://github.com/AsmSafone/MusicPlayer/issues).
 
 ## ✨ <a name="credits"></a>Credits
 
